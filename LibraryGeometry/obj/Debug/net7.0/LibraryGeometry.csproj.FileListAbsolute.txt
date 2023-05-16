@@ -1,0 +1,12 @@
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\bin\Debug\net7.0\LibraryGeometry.deps.json
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\bin\Debug\net7.0\LibraryGeometry.dll
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\bin\Debug\net7.0\LibraryGeometry.pdb
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.csproj.AssemblyReference.cache
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.AssemblyInfoInputs.cache
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.AssemblyInfo.cs
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.csproj.CoreCompileInputs.cache
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.dll
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\refint\LibraryGeometry.dll
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\LibraryGeometry.pdb
+C:\Users\alanb\RiderProjects\LibraryGeometry\LibraryGeometry\obj\Debug\net7.0\ref\LibraryGeometry.dll
